@@ -1,0 +1,1 @@
+select acodigo,adescri from maeart
